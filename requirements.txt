@@ -1,0 +1,2 @@
+samsungtvws[async,encrypted]
+Pillow

@@ -1,0 +1,15 @@
+{
+  "lat": 37.77,
+  "lon": -122.42,
+  "events": [
+    {"date": "2026-03-14", "time": "all day", "title": "Library books due"},
+    {"date": "2026-03-14", "time": "09:30", "title": "Swim lesson"},
+    {"date": "2026-03-14", "time": "18:00", "title": "Dinner with Sam"},
+    {"date": "2026-03-15", "time": "10:00", "title": "Farmers market"},
+    {"date": "2026-03-15", "time": "15:30", "title": "Piano recital"}
+  ],
+  "hide": ["Standing sync"],
+  "notes": [
+    "Recital is at the community center — leave 20 min early for parking"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "tv_host": "192.168.1.50",
+  "art_dir": "~/frame-art",
+  "state_dir": "~/.config/frame-dashboard",
+  "chrome": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+}

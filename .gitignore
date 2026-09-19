@@ -1,0 +1,8 @@
+.venv/
+out/
+config.json
+board.json
+art-notes.json
+__pycache__/
+*.pyc
+.DS_Store
